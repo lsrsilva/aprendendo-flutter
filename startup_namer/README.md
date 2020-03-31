@@ -1,16 +1,10 @@
-# startup_namer
+# cyclemanager_mobile
 
-A new Flutter application.
+Gerenciador Ourcycle
 
-## Getting Started
+## Comandos
 
-This project is a starting point for a Flutter application.
+- flutter pub get: funciona como o npm install, ou seja instala os novos pacotes.
+- Stateless widget: imutáveis, suas propriedades não mudam, todos os valores são final.
+- Statefull widget: pode mudar durante a vida da aplicação.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
