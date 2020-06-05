@@ -5,6 +5,7 @@ import 'package:cookbook/app/app_widget.dart';
 import 'package:cookbook/app/modules/home/home_module.dart';
 
 class AppModule extends MainModule {
+  // ingeção de dependências
   @override
   List<Bind> get binds => [
         Bind((i) => AppController()),
